@@ -1,15 +1,17 @@
 ## 使用指南（仅支持aecx以上平台）
 #### 1、程序主页面
 
-![1](assets/1.png)
+![1](assets/20250117-155223.png)
 
-![2](assets/2.png)
+![2](assets/image_2025-01-17_15-54-01.png)
 
-![3](assets/3.png)
+![3](assets/image_2025-01-17_15-53-09.png)
 
+![4](assets/image_2025-01-17_15-53-29.png)
 
+![5](assets/image_2025-01-17_15-54-10.png)
 
-
+![6](assets/image_2025-01-17_15-54-17.png)
 
 #### 2、使用步骤：
 
