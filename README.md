@@ -1,4 +1,4 @@
-![image_2025-01-20_15-25-30](https://github.com/user-attachments/assets/b5d2b575-bd3e-4756-bd2b-afe0ebf150c6)## 使用指南（仅支持aecx以上平台）
+## 使用指南（仅支持aecx以上平台）
 #### 1、程序主页面
 
 ![1](assets/20250117-155223.png)
