@@ -29,31 +29,31 @@
 
 调试界面如果缩略图较多的情况打开比较慢，请耐心等待。
 
-![(assets/11.png)
+![](assets/11.png)
 
 > 鼠标点击图片列表后，鼠标悬浮在对应的图片列表上，可以展示序号和完整文件名
 
-![(assets/12.png)
+![](assets/12.png)
 
 > 图片列表支持鼠标右键弹出相关功能列表，**列表中的图片也支持直接拖拽到C7工具中进行解析**。
 
-![(assets/13.png)
+![](assets/13.png)
 
 > 图片鼠标右键可以快捷打开工具菜单，支持快捷打开一些功能。
 
-![(assets/14.png)
+![](assets/14.png)
 
 > 显示lux，cct等相关exif信息
 
-![(assets/15.png)
+![](assets/15.png)
 
 > safe聚合的计算过程以及adrc gain的数值。
 
-![(assets/16.png)
+![](assets/16.png)
 
 > sa的相关信息展示，sa带有绿色原点的参与聚合的。
 
-![(assets/17.png)
+![](assets/17.png)
 
 > sa各个步骤的操作名，操作数，操作方法，操作结果。**方便排查adjratio的计算过程。**
 
