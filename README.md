@@ -211,7 +211,7 @@
 
 > b.请关闭相关算法hdr等。
 
-![image-20250402130100947](D:\tuning\tools\aebox\assets\10.png)
+![](assets/10.png)
 
 ##### 2、打开tuning界面缓慢
 
