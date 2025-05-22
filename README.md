@@ -1,3 +1,24 @@
+# 📷 Aebox
+
+<img src="resource/icons/viewer_3.ico" alt="XianyuBot Logo" width="180">
+
+**Aebox**是一款多功能高通aec辅助调试工具集合，采用 **Python + PyQt5** 实现，旨在为AEC模块的同事提供辅助调试的工具，提高aec模块的调试效率。
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.11%2B-blue" alt="Python Version">
+  </a>
+  <a href="https://platform.openai.com/">
+    <img src="https://img.shields.io/badge/PyQT5-5.15%2B-FF6F61" alt="PyQT5 Version">
+  </a>
+  <a href="https://raw.githubusercontent.com/yourusername/xianyubot/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-GPL 3.0-brightgreen" alt="license">
+  </a>
+</p>
+
+</div>
+
+
 # 使用指南：
 
 #### 1、程序主页面
