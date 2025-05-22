@@ -12,6 +12,9 @@
   <a href="https://platform.openai.com/">
     <img src="https://img.shields.io/badge/PyQT5-5.15%2B-FF6F61" alt="PyQT5 Version">
   </a>
+    <a href="https://platform.openai.com/">
+    <img src="https://img.shields.io/badge/Opencv-4.10%2B-blue" alt="Opencv">
+  </a>
 </p>
 
 </div>
