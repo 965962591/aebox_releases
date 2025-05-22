@@ -15,6 +15,10 @@
     <a href="https://platform.openai.com/">
     <img src="https://img.shields.io/badge/Opencv-4.10%2B-blue" alt="Opencv">
   </a>
+  </a>
+    <a href="https://platform.openai.com/">
+    <img src="https://img.shields.io/badge/fastapi-0.115.12-blue" alt="Fastapi">
+  </a>
 </p>
 
 </div>
