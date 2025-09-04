@@ -19,6 +19,10 @@
     <a href="https://platform.openai.com/">
     <img src="https://img.shields.io/badge/fastapi-0.115.12-blue" alt="Fastapi">
   </a>
+  <a>
+  <img src="https://gh-down-badges.linkof.link/965962591/aebox_releases">
+  </a>
+    
 </p>
 
 </div>
@@ -140,6 +144,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
