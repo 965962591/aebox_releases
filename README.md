@@ -38,10 +38,11 @@
 ![0](assets/image_2025-08-29_12-28-41.jpg)
 ![0](assets/image_2025-08-29_12-29-23.jpg)
 ![0](assets/image_2025-08-29_12-30-02.jpg)
-
+![0](assets/image_2025-09-15_13-39-57.jpg)
 ![1](assets/8.png)
 
 ![2](assets/9.png)
+
 
 **增加aebox_lite更加轻量，专注于exif信息的显示。**
 ![](assets/aebox_lite.jpg)
@@ -122,8 +123,17 @@
 
 
 ---------------------------------------------------------------------
+####  4、API接口：
+|      url       |           功能           |
+| :---------------: | :----------------------: |
+|     http://localhost:8000/set_c7_path/C%3a%5cQualcomm%5cChromatix7%5c7.3.01.36%5cChromatix.exe       |         设置C7路径         |
+|     http://localhost:8000/set_image_folder/D%3a%5co19%5cimage%5c0416%5co19        |       设置图片路径       |
+|     http://localhost:8000/image_list        |     获取图片列表     |
+|     http://localhost:8000/select_image_by_name/xxxxxx.jpg    |      切到目标图片       |
 
-####  4、常见问题：
+
+
+####  5、常见问题：
 
 ##### 1.xml解析不出来内容。
 
@@ -144,6 +154,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
