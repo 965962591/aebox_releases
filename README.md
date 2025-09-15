@@ -3,7 +3,7 @@
 
 <img src="icons/new_start_256.ico" alt="XianyuBot Logo" width="180">
 
-**Aebox**是一款多功能aec辅助调试工具集合，采用 **Python + PyQt5** 实现，旨在为AEC模块的同事提供丰富的辅助调试的工具，提高aec模块的调试效率，降低aec模块的上手难度。
+**Aebox**是一款多功能aec辅助调试工具集合，采用 **Python + PyQt5** 实现，旨在为AEC模块的同事提供丰富的辅助调试的工具，提高aec模块的调试效率，降低aec模块的上手难度。集成Hiviewer看图工具后将提供更加完善的看调体验，方便工具的使用和后续的维护。
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -154,6 +154,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
