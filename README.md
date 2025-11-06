@@ -28,6 +28,10 @@
 > https://github.com/965962591/aebox_releases/releases
 # 使用指南：
 
+
+# 联系方式：
+外部：barrymchen@gmail.com
+内部：chenyang3@longcheer.com
 #### 1、程序主页面
 
 ![0](assets/image_2025-09-15_13-38-32.jpg)
@@ -151,6 +155,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
