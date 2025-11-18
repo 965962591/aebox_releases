@@ -32,6 +32,14 @@
 ### 联系方式：
 外部：barrymchen@gmail.com
 内部：chenyang3@longcheer.com
+
+### 最新更新
+通过full control检查器将AECX中的full control解析后保存成sa_config.json后使用ctrl+q支持完整版本的可视化。
+1. 主界面解析后的sa计算步骤点击，full control可视化界面支持聚焦对应流程节点。
+2. 右键菜单栏的3a完全控制启用后将支持完整的3a数据自定义，可以新增lux-target和lux-adjratio-adjratio的一维/二维参数调试节点。
+3. 请注意，默认的full control节点的关系需要调试人员微调以适应自己的项目。
+![0](full_control.jpg)
+
 #### 1、程序主页面
 
 ![0](assets/image_2025-09-15_13-38-32.jpg)
@@ -155,6 +163,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
