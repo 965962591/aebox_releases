@@ -34,10 +34,13 @@
 内部：chenyang3@longcheer.com
 
 ### 最新更新
-通过full control检查器将AECX中的full control解析后保存成sa_config.json后使用ctrl+q支持完整版本的可视化。
+#### 新增高通AECX蓝图编辑器
+- 通过full control检查器将AECX中的full control解析后保存成sa_config.json后使用蓝图编辑器支持完整full control可视化自定义和参数模拟。
 1. 主界面解析后的sa计算步骤点击，full control可视化界面支持聚焦对应流程节点。
 2. 右键菜单栏的3a完全控制启用后将支持完整的3a数据自定义，可以新增lux-target和lux-adjratio-adjratio的一维/二维参数调试节点。
-3. 请注意，默认的full control节点的关系需要调试人员微调以适应自己的项目。
+3. 支持流程全局视图（将所有sa显示在一个画布上
+4. 支持存在多个sa流程配置文件，支持切换并使用不同的流程配置
+5. 请注意，默认的full control节点的关系需要调试人员微调以适应自己的项目。
 ![0](full_control.jpg)
 
 #### 1、程序主页面
@@ -163,6 +166,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
