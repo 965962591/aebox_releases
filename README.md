@@ -142,17 +142,10 @@
 
 
 ---------------------------------------------------------------------
-####  4、API接口：
-|      url       |           功能           |
-| :---------------: | :----------------------: |
-|     http://localhost:8000/set_c7_path/C%3a%5cQualcomm%5cChromatix7%5c7.3.01.36%5cChromatix.exe       |         设置C7路径         |
-|     http://localhost:8000/set_image_folder/D%3a%5co19%5cimage%5c0416%5co19        |       设置图片路径       |
-|     http://localhost:8000/image_list        |     获取图片列表     |
-|     http://localhost:8000/select_image_by_name/xxxxxx.jpg    |      切到目标图片       |
 
 
 
-####  5、常见问题：
+####  4、常见问题：
 
 ##### 1.xml解析不出来内容。
 
@@ -173,6 +166,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
