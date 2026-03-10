@@ -34,7 +34,14 @@
 内部：chenyang3@longcheer.com
 
 ### 最新更新
-#### 新增高通AECX蓝图编辑器
+#### fastapi->pyro5(3.8.5.4)
+- fastapi在使用的过程中需要需要手动的维护ip和端口，对于单个软件打开多次会存在端口占用导致fastapi对应服务异常无法实现切图的问题，因此内置服务从fastapi替换成pyro5。
+- pyro5无需手动管理ip和端口，名称服务器复现和连接速度快，对于单个程序启动多次，看图hiviewer工具可以同时控制。
+
+> **pyro5整体的体验更优，fastapi在后续版本不再支持，此为破坏性更新，请使用最新工具**
+
+
+#### 新增高通AECX蓝图编辑器(3.8.5.1)
 - 通过full control检查器将AECX中的full control解析后保存成sa_config.json后使用蓝图编辑器支持完整full control可视化自定义和参数模拟。
 1. 主界面解析后的sa计算步骤点击，full control可视化界面支持聚焦对应流程节点。
 2. 右键菜单栏的3a完全控制启用后将支持完整的3a数据自定义，可以新增lux-target和lux-adjratio-adjratio的一维/二维参数调试节点。
@@ -166,6 +173,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
