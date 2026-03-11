@@ -17,7 +17,7 @@
   </a>
   </a>
     <a href="https://platform.openai.com/">
-    <img src="https://img.shields.io/badge/fastapi-0.115.12-blue" alt="Fastapi">
+    <img src="https://img.shields.io/badge/pyro5-blue" alt="Pyro5">
   </a>
     
 </p>
@@ -189,6 +189,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
