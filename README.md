@@ -9,14 +9,14 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.12%2B-blue" alt="Python Version">
   </a>
-  <a href="https://platform.openai.com/">
+  <a href="https://www.qt.io/">
     <img src="https://img.shields.io/badge/PyQT5-5.15%2B-FF6F61" alt="PyQT5 Version">
   </a>
-    <a href="https://platform.openai.com/">
+    <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/Opencv-4.10%2B-blue" alt="Opencv">
   </a>
   </a>
-    <a href="https://platform.openai.com/">
+    <a href="https://pyro5.readthedocs.io/en/latest/">
     <img src="https://img.shields.io/badge/pyro5-blue" alt="Pyro5">
   </a>
     
@@ -189,6 +189,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
