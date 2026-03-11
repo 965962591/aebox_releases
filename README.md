@@ -33,6 +33,15 @@
 外部：barrymchen@gmail.com
 内部：chenyang3@longcheer.com
 
+
+## 🌟 贡献者
+
+感谢以下贡献者：
+
+| 头像 | 用户名 | 贡献 |
+|:---:|:---:|:---:|
+| ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/34186275?v=4&w=50&h=50&fit=cover) | [Barry](https://github.com/965962591) | 代码、文档 |
+| ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/69075879?v=4&w=50&h=50&fit=cover) | [diamond-cz](https://github.com/diamond-cz1) | 代码、文档 |
 ### 最新更新
 #### fastapi->pyro5(3.8.5.4)
 - fastapi在使用的过程中需要需要手动的维护ip和端口，对于单个软件打开多次会存在端口占用导致fastapi对应服务异常无法实现切图的问题，因此内置服务从fastapi替换成pyro5。
@@ -171,6 +180,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
