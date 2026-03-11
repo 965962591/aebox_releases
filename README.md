@@ -26,13 +26,15 @@
 
 # 下载请查看最新的release
 > https://github.com/965962591/aebox_releases/releases
-# 使用指南：
 
 
-### 联系方式：
-外部：barrymchen@gmail.com
-内部：chenyang3@longcheer.com
+### AEbox工具联系方式：
+- 外部：barrymchen@gmail.com
+- 内部：chenyang3@longcheer.com
 
+### Hiviewer工具联系方式：
+- 外部：diamond_cz@163.com
+- 内部：chenzhen@longcheer.com
 
 ## 🌟 贡献者
 
@@ -40,12 +42,14 @@
 
 | 头像 | 用户名 | 贡献 |
 |:---:|:---:|:---:|
-| ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/34186275?v=4&w=50&h=50&fit=cover) | [Barry](https://github.com/965962591) | 代码、文档 |
-| ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/69075879?v=4&w=50&h=50&fit=cover) | [diamond-cz](https://github.com/diamond-cz) | 代码、文档 |
+| ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/34186275?v=4&w=50&h=50) | [Barry](https://github.com/965962591) | 代码、文档 |
+| ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/69075879?v=4&w=50&h=50) | [diamond-cz](https://github.com/diamond-cz) | 代码、文档 |
 
 ## 🙏 特别感谢
 特别感谢以下个人和项目对本项目的支持（排名不分前后）：
-- 钱黎金、仲汝兵、丁凡、王清政、洪先明、石春杰、斯成浩、朱安东等同学的宝贵建议。
+- 钱黎金、仲汝兵、丁凡、王清政、洪先明、石春杰、斯成浩、朱安东、李志坤等同学的宝贵建议。
+
+# 使用指南：
 
 ### 最新更新
 #### fastapi->pyro5(3.8.5.4)
@@ -185,6 +189,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
