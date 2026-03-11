@@ -41,7 +41,7 @@
 | 头像 | 用户名 | 贡献 |
 |:---:|:---:|:---:|
 | ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/34186275?v=4&w=50&h=50&fit=cover) | [Barry](https://github.com/965962591) | 代码、文档 |
-| ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/69075879?v=4&w=50&h=50&fit=cover) | [diamond-cz](https://github.com/diamond-cz1) | 代码、文档 |
+| ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/69075879?v=4&w=50&h=50&fit=cover) | [diamond-cz](https://github.com/diamond-cz) | 代码、文档 |
 
 ## 🙏 特别感谢
 特别感谢以下个人和项目对本项目的支持（排名不分前后）：
@@ -185,6 +185,7 @@
 ##### 3、页面显示内容不全。
 
 > 可以手动缩放界面，也可以使用F11进行无边框全屏。
+
 
 
 
