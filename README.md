@@ -46,7 +46,7 @@
 | ![avatar](https://wsrv.nl/?url=avatars.githubusercontent.com/u/69075879?v=4&w=50&h=50) | [diamond-cz](https://github.com/diamond-cz) | Hiviewer |
 
 ## 🙏 特别感谢
-特别感谢以下个人和项目对本项目的支持（排名不分前后）：
+特别感谢以下个人对本项目的支持（排名不分前后）：
 - 钱黎金、仲汝兵、丁凡、王清政、洪先明、石春杰、斯成浩、朱安东、李志坤等同学的宝贵建议。
 
 # 使用指南：
