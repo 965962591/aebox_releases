@@ -52,6 +52,15 @@
 # 使用指南：
 
 ### 最新更新
+
+#### RawYuv2jpg更新(3.8.5.8)
+- 修复mtk packed word转jpg异常问题
+- 修复高通mipi raw lsb/msb异常，新增lsb/msb设置选项
+- 新增智能转换功能，将常见可能批量转换提供用户选择，可以将符合预期的配置设置为预设，方便后续转换
+- 支持从raw名称中直接提取size
+![0](assets/converter.jpg) 
+
+
 #### fastapi->pyro5(3.8.5.4)
 - fastapi在使用的过程中需要需要手动的维护ip和端口，对于单个软件打开多次会存在端口占用导致fastapi对应服务异常无法实现切图的问题，因此内置服务从fastapi替换成pyro5。
 - pyro5无需手动管理ip和端口，名称服务器发现和连接速度快，对于单个程序启动多次，看图hiviewer工具可以同时控制。
