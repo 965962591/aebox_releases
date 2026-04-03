@@ -53,6 +53,11 @@
 
 ### 最新更新
 
+#### mtk/unisoc更新(3.8.6.2)
+- 初步支持mtk 7s的解析和参数调试（计算部分待完善，参数回写待开发，请在设置中切换6s/7s）
+- mtk/unisoc的exif/thd/target table支持自定义exif tag显示
+- 优化了一些已知的问题
+
 #### RawYuv2jpg更新(3.8.5.8)
 - 修复mtk packed word转jpg异常问题
 - 修复高通mipi raw lsb/msb异常，新增lsb/msb设置选项
